@@ -1,3 +1,4 @@
+Refactored Code
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
