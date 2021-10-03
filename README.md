@@ -3,7 +3,7 @@
 ## overview  of the project
 we just want to make the code more efficient by taking few steps useng less memory and space and improving the logic of the code to make it easier for future users to read.
 ## result 
-Original code
+     Original code
 Sub DQAnalysis()
 
     Worksheets("DQAnalysis").Activate
@@ -190,7 +190,7 @@ Sub formatAllStocksAnalysisTable()
 End Sub
 
 
-Refactored Code
+          Refactored Code
 Assigment code
 
 Sub AllStocksAnalysisRefactored()
